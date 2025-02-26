@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "FHA Beta Test",
+   Name = "FHA Development | Brookhaven V0.01",
    Icon = 76739521457499, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
    LoadingTitle = "FHA Development",
    LoadingSubtitle = "by azuleyy end dumantzera",
