@@ -36,6 +36,7 @@ local Window = Rayfield:CreateWindow({
 
 local Tab = Window:CreateTab("Main", "home") -- Title, Image
 local Section = Tab:CreateSection("Test")
+local Divider = Tab:CreateDivider()
 local Tab = Window:CreateTab("Esp", "radar")
 local Section = Tab:CreateSection("Test2")
 local Tab = Window:CreateTab("Troll", "crown")
