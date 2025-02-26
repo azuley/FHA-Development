@@ -34,6 +34,6 @@ local Window = Rayfield:CreateWindow({
    }
 })
 
-local Tab = Window:CreateTab("Tab Example", House) -- Title, Image
+local Tab = Window:CreateTab("Main", House) -- Title, Image
 
 Rayfield:LoadConfiguration()
