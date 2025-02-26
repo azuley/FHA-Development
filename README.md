@@ -5,5 +5,5 @@
 #### SCRIPT:
 
 ```lua
-loadstring(game:HttpGet("https://github.com/azuley/FHA-Development/blob/main/Beta-Test/Games/Brookhaven-V0.01.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/azuley/FHA-Development/refs/heads/main/Beta-Test/Games/Brookhaven-V0.01.lua"))()
 ```
