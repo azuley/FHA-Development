@@ -36,5 +36,6 @@ local Window = Rayfield:CreateWindow({
 
 local Tab = Window:CreateTab("Main", "home") -- Title, Image
 local Tab = Window:CreateTab("Esp", "radar")
+local Tab = Window:CreateTab("Troll", "crown")
 
 Rayfield:LoadConfiguration()
